@@ -1,0 +1,12 @@
+{
+    "name": "ahilke/php-to-activity-diagram",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arno Hilke",
+            "email": "arno.hilke@tum.de"
+        }
+    ],
+    "require": {}
+}
