@@ -8,6 +8,11 @@
             "email": "arno.hilke@tum.de"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
     "require": {
         "jawira/plantuml": "^1.23"
     }
