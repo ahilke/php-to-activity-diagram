@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "129be65723122995794690eddd98f770",
+    "packages": [
+        {
+            "name": "jawira/plantuml",
+            "version": "v1.23.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jawira/plantuml.git",
+                "reference": "15def20d97ef5c0a40d2fc05f79a2ffbea7383c6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jawira/plantuml/zipball/15def20d97ef5c0a40d2fc05f79a2ffbea7383c6",
+                "reference": "15def20d97ef5c0a40d2fc05f79a2ffbea7383c6",
+                "shasum": ""
+            },
+            "suggest": {
+                "pds/skeleton": "Standard PHP package skeleton",
+                "phing/phing": "PHP Build Tool"
+            },
+            "bin": [
+                "bin/plantuml"
+            ],
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Jawira Portugal"
+                }
+            ],
+            "description": "Provides PlantUML integration: plantuml executable and plantuml.jar",
+            "keywords": [
+                "diagram",
+                "plantuml",
+                "plantuml.jar",
+                "uml"
+            ],
+            "time": "2019-09-01T02:23:00+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

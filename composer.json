@@ -8,5 +8,7 @@
             "email": "arno.hilke@tum.de"
         }
     ],
-    "require": {}
+    "require": {
+        "jawira/plantuml": "^1.23"
+    }
 }
